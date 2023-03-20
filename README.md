@@ -8,4 +8,4 @@ Director: Jorge Portolés
 Tutor: Antonio Pich
 
 Ph.D. thesis for the obtention of the title Doctor in theoretical particle physics by the University of Valencia.  
-Defended at Instituto de Física Corpuscular (CSIC-UV) with Excelent Cum laude and international mention.
+Defended at Instituto de Física Corpuscular (CSIC-UV) with Excelent **Cum laude** and international mention.
